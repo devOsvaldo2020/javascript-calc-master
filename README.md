@@ -21,6 +21,6 @@ feel free to contribute! :)
 
 - Fui fazendo ate achar que ja estava melhorado, sei que vai ter outra pessoa que poderá pegar o meu e continuar, fiquem a vontade.
 
-### Voce pode testar no link abaixo:
+### Veja como ficou o meu projeto.
 
-[clique aqui]{https://devosvaldo2020.github.io/javascript-calc-master/}
+<a href="https://devosvaldo2020.github.io/javascript-calc-master/"><strong>➥ Projeto do DEVOSC:</strong></a>
